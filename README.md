@@ -1,7 +1,11 @@
 # Hi, I'm Vikram 👋
 
 🎓 MS Data Science Student – University of Connecticut
+
 📍 Hartford, CT
+
+3.86/4.0 GPA 
+
 
 I am passionate about **Machine Learning, Data Science, and AI-driven analytics**.
 Currently seeking **Summer 2026 Machine Learning / Data Science Internships**.
