@@ -43,5 +43,7 @@ Data Science Applications
 ## 📫 Connect With Me
 
 📧 Email: [vikramgk47@gmail.com](mailto:vikramgk47@gmail.com)
+
 💼 LinkedIn: https://www.linkedin.com/in/vikram-krishnareddy-5056122b8/
+
 💻 GitHub: https://github.com/Vikramgk47
