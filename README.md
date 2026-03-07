@@ -4,7 +4,7 @@
 
 📍 Hartford, CT
 
-3.86/4.0 GPA 
+  3.86/4.0 GPA 
 
 
 I am passionate about **Machine Learning, Data Science, and AI-driven analytics**.
