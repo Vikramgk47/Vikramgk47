@@ -25,8 +25,11 @@ Currently seeking **Summer 2026 Machine Learning / Data Science Internships**.
 
 **Programming:** Python, SQL, R
 **Machine Learning:** scikit-learn, XGBoost, Deep Learning, Time Series Forecasting
+
 **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
+
 **Data Visualization:** Power BI
+
 **Cloud & Big Data:** AWS, GCP, Hadoop
 
 ---
