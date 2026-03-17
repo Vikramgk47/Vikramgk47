@@ -47,7 +47,6 @@ Predictive Analytics
 Data Science Applications
 
 ---
-Python Jupyter SQL PyCharm Html Css JavaScript Git Jira Windows Linux
    
 
 ## 📫 Connect With Me
